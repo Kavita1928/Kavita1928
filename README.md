@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kavita1928
-- 👀 I’m interested in new technology
-- 🌱 I’m currently learning web development
+- 👀 I’m interested in collabration in project
+- 🌱 I’m currently learning blockchain 
 - 💞️ I’m looking to collaborate on web development project
 - 📫 How to reach me via https://www.linkedin.com/in/kavita-yadav-63276a289
 
