@@ -1,86 +1,100 @@
-<h1 align="center">Hi there 👋, I'm Kavita Yadav</h1>
-
----
+<!-- Header -->
 <p align="center">
-  <a href="https://kavita1928.github.io/tetris-game" target="_blank">
-    <img width="300px" src="https://img.shields.io/badge/🎮%20PLAY%20TETRIS-F74C00?style=for-the-badge&logo=game-controller&logoColor=white" alt="Play Tetris" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300§ion=header&text=Hi%20there!%20I'm%20Kavita%20Yadav&fontSize=70&fontColor=ffffff" />
 </p>
 
-
-
-
-### 💫 About Me
-
-🤝 **Eager to Collaborate On:**  
-- 🌐 Open-source web development projects  
-- 🎨 Creative UI/UX design for impactful user experiences  
-- 🚀 Innovative tools that empower developers and learners
-
-🎯 **What I’m Passionate About:**  
-- Designing responsive, accessible web interfaces  
-- Optimizing performance for modern web apps  
-- Crafting clean, maintainable code that scales
-
-🌱 **Actively Learning:**  
-- Advanced frontend engineering techniques  
-- The latest in JavaScript frameworks & tooling  
-- Best practices for web performance and accessibility
-
-💬 **Ask Me About:**  
-- ✨ Frontend development workflows and architecture  
-- 🎯 Building beautiful, responsive websites  
-- 🛠 JavaScript, HTML, CSS, and modern frameworks  
-- 🌟 Contributing to open source
-
-
----
-
-### 🌐 Socials
-
-<p>
+<!-- Socials -->
+<p align="center">
   <a href="https://www.linkedin.com/in/kavita-yadav-63276a289/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:kavitayadav1.1111111@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://github.com/Kavita1928" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+<!-- About Me -->
+<div align="center">
+
+I'm a passionate web developer with a love for creating beautiful, intuitive, and high-performing web experiences. From crafting clean code to designing pixel-perfect interfaces, I thrive on turning ideas into reality. I'm always eager to learn, collaborate, and contribute to the open-source community.
+
+Check out this fun Tetris game I built!
+
+<p align="center">
+  <a href="https://kavita1928.github.io/tetris-game" target="_blank">
+    <img width="300px" src="https://img.shields.io/badge/🎮%20PLAY%20MY%20TETRIS%20GAME-F74C00?style=for-the-badge&logo=game-controller&logoColor=white" alt="Play Tetris" />
+  </a>
+</p>
+
+</div>
+
+---
+
+### 💫 My Passions & Skills
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h3 align="center">🚀 What Drives Me</h3>
+      <ul>
+        <li>🌐 Building responsive and accessible web applications.</li>
+        <li>🎨 Designing creative and impactful user experiences.</li>
+        <li>🛠️ Crafting clean, scalable, and maintainable code.</li>
+        <li>🌱 Continuously learning and adopting new technologies.</li>
+      </ul>
+    </td>
+    <td valign="top" width="50%">
+      <h3 align="center">💬 Ask Me About</h3>
+      <ul>
+        <li>✨ Frontend development workflows and architecture.</li>
+        <li>🎯 JavaScript, React, HTML, and CSS.</li>
+        <li>🧩 Problem-solving and algorithmic thinking.</li>
+        <li>🌟 How to get started with open-source contributions.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 💻 My Tech Stack
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,python,c,cpp,html,css,javascript,react,mysql,vscode,github,git" />
   </a>
 </p>
 
 ---
 
-### 💻 Tech Stack
+### 📊 My GitHub Stats & Trophies
 
-<p>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<p align="center">
+  <a href="https://github-readme-stats.vercel.app/api?username=Kavita1928&show_icons=true&theme=radical&rank_icon=github">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Kavita1928&show_icons=true&theme=radical&rank_icon=github" alt="Kavita's GitHub Stats"/>
+  </a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img width="48%" src="https://github-profile-trophy.vercel.app/?username=Kavita1928&theme=radical&column=7&margin-w=15&margin-h=15" alt="Kavita's Trophies"/>
+  </a>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kavita1928&layout=compact&theme=radical" alt="Top Languages" />
+   
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Kavita1928&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
-### 📈 GitHub Stats
+### 🙏 Thanks for stopping by!
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kavita1928&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Kavita1928&theme=radical" width="48%" />
+  <img src="https://komarev.com/ghpvc/?username=Kavita1928&label=Profile%20views&color=blueviolet&style=flat-square" alt="Profile views"/>
 </p>
 
+<!-- Footer -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kavita1928&layout=compact&theme=radical" width="48%" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120§ion=footer"/>
 </p>
