@@ -2,7 +2,7 @@
 
 ---
 <p align="center">
-  <a href="https://kavita1928.github.io/tetris-game" target="_blank">
+  <a href="https://kavita1928.github.io/tetris-game/" target="_blank">
     <img src="https://media.giphy.com/media/xTiTnJ3BooiDs8dL7W/giphy.gif" width="300px" alt="Play Tetris" />
   </a>
 </p>
