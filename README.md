@@ -3,9 +3,10 @@
 ---
 <p align="center">
   <a href="https://kavita1928.github.io/tetris-game" target="_blank">
-    <img src="https://img.shields.io/badge/%F0%9F%8E%AE%20Play%20Tetris%20Game-blue?style=for-the-badge" alt="Play Tetris" />
+    <img src="https://media.giphy.com/media/xTiTnJ3BooiDs8dL7W/giphy.gif" width="300px" alt="Play Tetris" />
   </a>
 </p>
+
 
 ### 💫 About Me
 
