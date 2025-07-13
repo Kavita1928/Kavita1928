@@ -3,9 +3,21 @@
 ---
 <p align="center">
   <a href="https://kavita1928.github.io/tetris-game/" target="_blank">
-    <img src="https://media.giphy.com/media/xTiTnJ3BooiDs8dL7W/giphy.gif" width="300px" alt="Play Tetris" />
+    <button style="
+      background-color: #007acc;
+      color: white;
+      border: none;
+      padding: 12px 24px;
+      font-size: 16px;
+      border-radius: 6px;
+      cursor: pointer;
+      box-shadow: 0 4px 6px rgba(0,0,0,0.3);
+    ">
+      🎮 Play Tetris
+    </button>
   </a>
 </p>
+
 
 
 ### 💫 About Me
