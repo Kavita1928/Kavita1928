@@ -2,21 +2,11 @@
 
 ---
 <p align="center">
-  <a href="https://kavita1928.github.io/tetris-game/" target="_blank">
-    <button style="
-      background-color: #007acc;
-      color: white;
-      border: none;
-      padding: 12px 24px;
-      font-size: 16px;
-      border-radius: 6px;
-      cursor: pointer;
-      box-shadow: 0 4px 6px rgba(0,0,0,0.3);
-    ">
-      🎮 Play Tetris
-    </button>
+  <a href="https://kavita1928.github.io/tetris-game" target="_blank">
+    <img width="300px" src="https://img.shields.io/badge/🎮%20PLAY%20TETRIS-F74C00?style=for-the-badge&logo=game-controller&logoColor=white" alt="Play Tetris" />
   </a>
 </p>
+
 
 
 
