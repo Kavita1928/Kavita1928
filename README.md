@@ -76,6 +76,7 @@ Check out this fun Tetris game I built!
   <a href="https://github-readme-stats.vercel.app/api?username=Kavita1928&show_icons=true&theme=radical&rank_icon=github">
     <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Kavita1928&show_icons=true&theme=radical&rank_icon=github" alt="Kavita's GitHub Stats"/>
   </a>
+  <br>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img width="48%" src="https://github-profile-trophy.vercel.app/?username=Kavita1928&theme=radical&column=7&margin-w=15&margin-h=15" alt="Kavita's Trophies"/>
   </a>
